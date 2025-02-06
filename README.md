@@ -45,4 +45,30 @@ StepCounterApp é um aplicativo Android desenvolvido em Kotlin que conta os pass
 1. **Clone o repositório:**
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/VicRyan007/StepCounterApp
+
+   # StepCounterApp
+
+## Instruções para Configuração e Execução
+
+### Abra o Projeto no Android Studio
+
+1. Selecione **"Open an existing project"** e navegue até a pasta clonada.
+
+### Sincronize as Dependências
+
+1. Aguarde a sincronização do Gradle e a importação dos arquivos.
+
+### Compile e Execute
+
+1. Conecte um dispositivo Android ou inicie um emulador.
+2. Clique em **"Run"** para compilar e instalar o app.
+3. Conceda as permissões solicitadas (**ACTIVITY_RECOGNITION** e **POST_NOTIFICATIONS**).
+
+## Observações
+
+- A contagem é relativa ao primeiro registro (baseline).
+- A atualização ocorre a cada dois passos.
+- A notificação persistente é exibida mesmo quando o app está em segundo plano.
+
+   
