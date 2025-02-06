@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StepCounterApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize seu tema aqui -->
+    </style>
+</resources>

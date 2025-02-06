@@ -1,0 +1,7 @@
+#Tue Feb 04 22:13:49 BRT 2025
+base.0=C\:\\Users\\Ryann\\Downloads\\StepCounterApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.1=C\:\\Users\\Ryann\\Downloads\\StepCounterApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\6\\classes.dex
+path.0=0/classes.dex
+path.1=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
